@@ -1,7 +1,7 @@
 # Google-fake-
 Fake Google
 
-#Om projektet
+# Om projektet
 
 Jag har skapat en kopia av Googles startsida med hjälp av HTML och CSS.
 
